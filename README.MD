@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#000080&height=200&section=header&text=Timothy%20Yusuf&fontSize=48&fontColor=fffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=B5651D&center=true&width=700&lines=AI+Engineer;Large+Language+Models;Computer+Vision;Go+Developer;Backend+Engineer;Open+to+Remote+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=#124573&center=true&width=700&lines=AI+Engineer;Large+Language+Models;Computer+Vision;Go+Developer;Backend+Engineer;Open+to+Remote+Opportunities"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timothy-yusuf-15201141a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Timstrings)
