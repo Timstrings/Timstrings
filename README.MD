@@ -6,7 +6,7 @@
 
 *"Building intelligent systems that solve real-world problems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&background-color=#000080&color=#000080&height=200&section=header&text=Timothy%20Yusuf&fontSize=48&fontColor=fffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#124573&height=200&section=header&text=Timothy%20Yusuf&fontSize=48&fontColor=fffff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=700&color=#124573&center=true&width=700&lines=AI+Engineer;Large+Language+Models;Computer+Vision;Go+Developer;Backend+Engineer;Open+to+Remote+Opportunities"/>
 
